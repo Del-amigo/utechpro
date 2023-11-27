@@ -74,13 +74,13 @@ const TermsArea = () => {
                     <strong>Service</strong> refers to the Website.
                   </li>
                   <li>
-                    <strong>Website</strong> refers to Harry, accessible from{" "}
+                    <strong>Website</strong> refers to utechprostore, accessible from{" "}
                     <Link
                       href="/"
                       rel="external nofollow noopener"
                       target="_blank"
                     >
-                      harry.com
+                      utechprostore.com
                     </Link>
                   </li>
                 </ul>
@@ -93,7 +93,7 @@ const TermsArea = () => {
                   <li>
                     Email:{" "}
                     <span>
-                      <a href="mailto:harry.com">support@harry.com</a>
+                      <a href="mailto:utechprostore.com">support@utechprostore.com</a>
                     </span>
                   </li>
                 </ul>

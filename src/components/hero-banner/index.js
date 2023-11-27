@@ -28,7 +28,7 @@ const slider_data = [
     id: 2,
     pre_title: (
       <>
-        Best Ear <br /> Headphones
+        Technology <br /> Headphones
       </>
     ),
     title: (
@@ -47,7 +47,7 @@ const slider_data = [
     ),
     title: (
       <>
-        Music To <br /> Fill Your Heart
+        Welcome To <br /> Utechprostore
       </>
     ),
     img: slider_img_3,
