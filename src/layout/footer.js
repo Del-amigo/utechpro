@@ -117,13 +117,13 @@ const Footer = () => {
                       <div className="footer__contact">
                         <div className="footer__contact-call">
                           <span>
-                            <a href="tel:624-423-26-72">215-111- 1111</a>
+                            <a href="tel:624-423-26-72">267-266-7070</a>
                           </span>
                         </div>
                         <div className="footer__contact-mail">
                           <span>
-                            <a href="mailto:support@utechprostore.com">
-                              support@utechprostore.com
+                            <a href="mailto:utechproteam@gmail.com">
+                              utechproteam@gmail.com
                             </a>
                           </span>
                         </div>

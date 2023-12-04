@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 // internal
 import Menus from "./menus";
 // import logo from "@assets/img/logo/logo-black.svg";
-import logo from "@assets/img/logo/favicon.png";
+import logo from "@assets/img/logo/utech.jpeg";
 
 import { Cart, Heart, Search, User } from "@svg/index";
 import useSticky from "@hooks/use-sticky";
