@@ -40,8 +40,7 @@ const UserOrdersPage = () => {
     </div>;
   }
   if(isError){
-   content = <ErrorMessage message="There was an error " />
-  }
+    content = <ErrorMessage message="Lets search some products" />;  }
   if(orderData && !isError){
     content = <DashboardArea orderData={orderData} />
   }

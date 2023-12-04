@@ -27,8 +27,7 @@ const ShopProducts = () => {
   }
 
   if (!isLoading && isError) {
-    content = <ErrorMessage message="There was an error" />;
-  }
+    content = <ErrorMessage message="Lets search some products" />;  }
 
   if (!isLoading && !isError && products?.products?.length === 0) {
     content = <ErrorMessage message="No products found!" />;

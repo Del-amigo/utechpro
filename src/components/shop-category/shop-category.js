@@ -21,8 +21,7 @@ const ShopCategoryArea = () => {
   }
 
   if (!isLoading && isError) {
-    content = <ErrorMessage message="There was an error" />;
-  }
+    content = <ErrorMessage message="Lets search some products" />;  }
 
   if (!isLoading && !isError && categories?.categories?.length === 0) {
     content = <ErrorMessage message="No Category found!" />;

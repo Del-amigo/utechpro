@@ -19,7 +19,8 @@ const ShopCategory = () => {
   }
 
   if (!isLoading && isError) {
-    content = <ErrorMessage message="There was an error" />;
+    content = <ErrorMessage message="Lets search some products" />;    // content = <ErrorMessage message="There was an error" />;
+
   }
 
   if (!isLoading && !isError && categories?.categories?.length === 0) {

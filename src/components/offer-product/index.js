@@ -32,8 +32,7 @@ const OfferPopularProduct = () => {
   }
 
   if (!isLoading && isError) {
-    content = <ErrorMessage message="There was an error" />;
-  }
+    content = <ErrorMessage message="Lets search some products" />;  }
 
   if (!isLoading && !isError && offerCoupons?.length === 0) {
     content = <ErrorMessage message="No products found!" />;

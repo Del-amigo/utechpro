@@ -29,8 +29,7 @@ const SingleOrder = ({ params }) => {
     );
   }
   if (isError) {
-    content = <ErrorMessage message="There was an error" />;
-  }
+    content = <ErrorMessage message="Lets search some products" />;  }
   if (!isLoading && !isError) {
     const {
       name,
