@@ -19,10 +19,10 @@ function SingleLocationItem({ title, icon, location, tel }) {
               </div>
               <div className="contact__location-content">
                 <p>
-                  <a href="mailto:contact.location@website.com">{location}</a>
+                  <a href="mailto:utechproteam@gmail.com">{location}</a>
                 </p>
                 <p>
-                  <a href="tel:686-324-6838">{tel}</a>
+                  <a href="tel:267-266-7070">{tel}</a>
                 </p>
               </div>
             </div>
@@ -65,22 +65,22 @@ const LocationArea = () => {
           <div className="col-xl-10 ">
             <div className="contact__location-wrapper">
               <SingleLocationItem
-                title="Australia Office"
+                title="New York Office"
                 icon={location_icon_1}
-                location="contact.location@website.com"
-                tel="686-324-6838"
+                location="utechproteam@gmail.com"
+                tel="267-266-7070"
               />
               <SingleLocationItem
                 title="San Francisco Office"
                 icon={location_icon_2}
-                location="contact.location@website.com"
-                tel="686-324-6810"
+                location="utechproteam@gmail.com"
+                tel="267-266-7070"
               />
               <SingleLocationItem
-                title="Egpyt Office"
+                title="Europe Office"
                 icon={location_icon_3}
-                location="contact.location@website.com"
-                tel="786-324-6810"
+                location="utechproteam@gmail.com"
+                tel="267-266-7070"
               />
             </div>
           </div>
