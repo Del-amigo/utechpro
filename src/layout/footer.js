@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 // internal
 // import logo from '@assets/img/logo/logo-black.svg';
-import logo from "@assets/img/logo/favicon.png";
+import logo from "@assets/img/logo/utech.jpeg";
 import payment from '@assets/img/footer/footer-payment.png';
 import SocialLinks from "@components/social";
 import CopyrightText from "./copyright-text";

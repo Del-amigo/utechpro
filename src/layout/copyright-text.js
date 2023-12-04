@@ -4,7 +4,7 @@ import React from "react";
 const CopyrightText = () => {
   return (
     <p>
-      Copyright © {new Date().getFullYear()} by <Link href="/">UPROTECH</Link> {' '}
+      Copyright © {new Date().getFullYear()} by <Link href="/">UTECHPRO</Link> {' '}
       All rights reserved.
     </p>
   );
