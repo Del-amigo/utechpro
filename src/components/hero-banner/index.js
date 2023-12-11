@@ -47,7 +47,7 @@ const slider_data = [
     ),
     title: (
       <>
-        Welcome To <br /> Utechprostore
+        Welcome To <br /> Utechpro
       </>
     ),
     img: slider_img_3,
